@@ -1,3 +1,6 @@
+Note: Forking to make Ejabberd Offline Storage FIFO instead of loosing the latest messages  will prefer to loose old messages.
+----
+
 ejabberd Community Edition 
 ==========================
 
